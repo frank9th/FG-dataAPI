@@ -9,7 +9,7 @@ verify_ssl = true
 alabaster = "==0.7.12"
 asgiref = "==3.2.9"
 astroid = "==2.4.2"
-babel = "==2.8.0"
+babel = "==2.9.1"
 backcall = "==0.2.0"
 beautifulsoup4 = "==4.9.1"
 bs4 = "==0.0.1"
